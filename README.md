@@ -34,8 +34,3 @@ expecting a string input but having no input. or expecting an int and giving a f
 ##Time Limit Error
 Time Limit Errors occur when the program takes longer than expected to run. The Active Code expects every program to run under x number of seconds. If the program takes longer to run it will throw a Time Limit Error.
 
-
-
-Description 
-
-**Example:**
